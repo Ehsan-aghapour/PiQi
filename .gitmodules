@@ -4,3 +4,6 @@
 [submodule "YoloV3-QE"]
 	path = YoloV3-QE
 	url = https://github.com/Ehsan-aghapour/YoloV3-QE
+[submodule "CO-UP-Profiling"]
+	path = CO-UP-Profiling
+	url = https://github.com/Ehsan-aghapour/CO-UP-Profiling.git
