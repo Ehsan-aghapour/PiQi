@@ -1,3 +1,6 @@
 [submodule "ARM-CO-UP"]
 	path = ARM-CO-UP
 	url = https://github.com/Ehsan-aghapour/ARM-CO-UP.git
+[submodule "YoloV3-QE"]
+	path = YoloV3-QE
+	url = https://github.com/Ehsan-aghapour/YoloV3-QE
